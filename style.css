@@ -1,3 +1,59 @@
-h1{
-    color:blue;
+.buynow-btn{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.card{
+    border:none;
+    box-shadow:1px 1px 15px grey;
+    border-radius: 30px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+   
+}
+.container{
+    margin-top: 50px;
+}
+
+h2{
+    margin-bottom: 50px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+  
+}
+hr{
+    width: 80px;
+    height: 3px;border-radius: 1px;
+    background-color: lightsalmon;
+    border-radius: 3px;
+}
+.cat2,.cat3,.cat1{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    padding: 30px;
+
+}
+.cat{
+    width: 400px;
+    height: 400px;
+}
+.cat1{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+   
+}
+footer{
+    display: flex;
+    justify-content: center;
 }
